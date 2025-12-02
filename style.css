@@ -187,7 +187,7 @@ html {
     }
 
     .navbar a {
-        font-size: 1.6rem;
+        font-size: 1.2rem;
         padding: 10px 16px;
     }
 
@@ -199,20 +199,20 @@ html {
     }
 
     p {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     }
 
     /* 見出しサイズUP（スマホだとここが大事） */
     h1 {
-        font-size: 3.0rem;
+        font-size: 2.0rem;
     }
 
     h2 {
-        font-size: 2.1rem;
+        font-size: 1.5rem;
     }
 
     h3 {
-        font-size: 1.9rem;
+        font-size: 1.4rem;
     }
 
     /* 目次も指で押しやすく */
@@ -227,5 +227,6 @@ html {
   margin: 0 auto;
   width: 100%; /* 必要なら調整 */
 }
+
 
 
