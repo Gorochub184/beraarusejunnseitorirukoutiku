@@ -187,7 +187,7 @@ html {
     }
 
     .navbar a {
-        font-size: 1.1rem;
+        font-size: 1.6rem;
         padding: 10px 16px;
     }
 
@@ -227,4 +227,5 @@ html {
   margin: 0 auto;
   width: 100%; /* 必要なら調整 */
 }
+
 
