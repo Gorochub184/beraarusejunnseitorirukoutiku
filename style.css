@@ -182,3 +182,10 @@ html {
   margin: 0 auto;
   width: 100%; /* 必要なら調整 */
 }
+
+@media (max-width: 768px) {
+  body {
+  margin: 0;
+  padding: 0;
+  }
+}
