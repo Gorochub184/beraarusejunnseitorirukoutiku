@@ -198,17 +198,21 @@ html {
         border-radius: 14px;
     }
 
+    p {
+    font-size: 1.6rem;
+    }
+
     /* 見出しサイズUP（スマホだとここが大事） */
     h1 {
-        font-size: 2.1rem;
+        font-size: 3.0rem;
     }
 
     h2 {
-        font-size: 1.65rem;
+        font-size: 2.1rem;
     }
 
     h3 {
-        font-size: 1.35rem;
+        font-size: 1.9rem;
     }
 
     /* 目次も指で押しやすく */
@@ -223,3 +227,4 @@ html {
   margin: 0 auto;
   width: 100%; /* 必要なら調整 */
 }
+
