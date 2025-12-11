@@ -134,9 +134,27 @@ html {
   width: 100%; /* 必要なら調整 */
 }
 
-@media (max-width: 768px) {
-  p {
-    font-size: 1.01rem;
-  }
-}
+@media (max-width: 600px) {
+    body {
+        font-size: 18px; /* ★ 普段より大きくして読みやすくする */
+        line-height: 1.9;
+    }
 
+    main {
+        max-width: 25em; /* ★ 横幅を25文字に固定 */
+        margin: 40px auto;
+        padding: 24px 20px;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+}
